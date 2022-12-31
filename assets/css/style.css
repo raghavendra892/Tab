@@ -1,0 +1,17 @@
+.tabBody .card{
+	display: none;
+}
+
+.tabBody .card.active{
+	display: block;
+}
+
+.photo img {
+    /* vertical-align: middle; */
+    /* border-style: none; */
+    width: 650px;
+	height: 350px;
+}
+body{
+	background-color: #000;
+}
